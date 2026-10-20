@@ -1,0 +1,7 @@
+{
+  "appId": "com.capnabil.app",
+  "appName": "Capnabil",
+  "webDir": "www",
+  "backgroundColor": "#08110e",
+  "android": { "allowMixedContent": false }
+}
